@@ -22,7 +22,7 @@ public class A2Q3 {
         // create City
         City Mexico = new City();
         // create Robot
-              Robot Cole = new Robot(Mexico,17,10, Direction.EAST);
+              Robot Cole = new Robot(Mexico,5,8, Direction.EAST);
               Cole.setColor(Color.PINK);
               
               
